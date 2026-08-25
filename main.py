@@ -10,7 +10,7 @@ st.title("🛡️ Alpha CISO AI Assistant & Operational Engine")
 st.caption("Enterprise Risk Quantification, Remediation & Context-Aware Assistant")
 
 # 1. API KEY SETUP
-GEMINI_API_KEY = "AQ.Ab8RN6IrPYgidtIaUjkGe62m8daPv1Wr1Nr57sn50-bcISLEKQ"
+GEMINI_API_KEY = ""
 client = genai.Client(api_key=GEMINI_API_KEY)
 
 # Dynamic System Prompt
